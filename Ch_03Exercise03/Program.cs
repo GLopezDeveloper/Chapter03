@@ -24,7 +24,7 @@ namespace Ch_03Exercise03
                 {
                     if (i % 5 == 0)
                     {
-                        Write($"BuzzTest,");
+                        Write($"Buzz,");
 
                     }
                     else
